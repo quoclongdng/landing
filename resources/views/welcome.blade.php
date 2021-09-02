@@ -85,8 +85,8 @@
         <div class="row align-items-center h-100">
             <div class="col-lg-6 col-md-12 col-sm-12 order-lg-first">
                 <div class="banner_text text_md_center">
-                    <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.1s">Bitcoin is an innovative payment network and a new kind of money.</h1>
-                    <p class="animation" data-animation="fadeInUp" data-animation-delay="1.3s">Bitcoin is peer-to-peer electronic money that features low fees and fast transaction times.</p>
+                    <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.1s">6Coin9 is the beginning of success and selection new investment.</h1>
+                    <p class="animation" data-animation="fadeInUp" data-animation-delay="1.3s">6Coin9 is an intermediary network that helps users transact with each other with fast transaction times.</p>
                     <div class="btn_group animation" data-animation="fadeInUp" data-animation-delay="1.4s">
                         <a href="#" class="btn btn-default btn-radius">Buy Token Now! <i class="ion-ios-arrow-thin-right"></i></a>
                     </div>
@@ -183,33 +183,30 @@
 <!-- END CLIENTS SECTION -->
 
 <!-- START SECTION ABOUT US -->
-<section id="about" class="pb-0" data-parallax="scroll" data-image-src="assets/images/about_bg2.png">
+{{-- <section id="about" class="pb-0" data-parallax="scroll" data-image-src="assets/images/about_bg2.png"> --}}
+<section id="about" class="small_pt small_pb">
+    {{-- <div class="bg_navy_blue video_bg"></div> --}}
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-lg-8 offset-lg-2 col-md-12 col-sm-12">
-                <div class="title_blue_dark title_border text-center">
-                  <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">About The Cryptocash</h4>
-                  <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Cryptocase is one of the most transformative technologies since the  invention of the Internet. Cryptocase stands firmly in support of financial freedom and the liberty that Bitcoin provides globally for anyone to voluntarily participate in a permissionless and decentralized network.</p>
-                  <p class="animation" data-animation="fadeInUp" data-animation-delay="0.8s">which empowers people to not be marginalized by governments and financial institutions. Bitcoin is freedom. </p>
+            <div class="col-lg-6 col-md-12 col-sm-12">
+            	<div class="text-center">
+                	<img class="animation" data-animation="zoomIn" data-animation-delay="0.2s" src="assets/images/about_img3.png" alt="aboutimg3">
+                </div>
+                <div class="chart_icon text-center">
+                	<img class="animation" data-animation="zoomIn" data-animation-delay="0.2s" src="assets/images/chart_icon.png" alt="aboutimg3">
                 </div>
             </div>
-        </div>
-        <div class="row">
-        	<div class="col-10 offset-1">
-            	<div class="divider small_divider"></div>
-            	<div class="video_wrap animation" data-animation="fadeInUp" data-animation-delay="0.4s">
-                	<img src="assets/images/video_img2.jpg" alt="video_img2">
-                    <div class="video_text">
-                    	<a href="../../watch.html?v=ZE2HxTmxfrI" class="video">
-                        	<i class="ion-ios-play-outline gradient_box"></i>
-                        	<span>How It Work</span>
-                        </a>
-                    </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 res_md_mt_30 res_sm_mt_20">
+                <div class="title_default_light title_border">
+                  <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s" style="color: #0043bb">About The 6Coin9</h4>
+                  <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="0.4s" style="color: #7a7a7a">6Coin9 is one of the most transformative technologies since the  invention of the Internet. Cryptocase stands firmly in support of financial freedom and the liberty that Bitcoin provides globally for anyone to voluntarily participate in a permissionless and decentralized network.</p>
+                  <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="0.8s" style="color: #7a7a7a">Which empowers people to not be marginalized by governments and financial institutions. 6coin9 is freedom. </p>
+                  <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="1.2s" style="color: #7a7a7a">We enable fast and secure communication between users. The system has a bitcoin rate prediction game and guaranteed lending among users in the system.
                 </div>
+                <a href="https://www.youtube.com/watch?v=CyOMgwGiYBc" class="btn btn-default btn-radius video animation" data-animation="fadeInUp" data-animation-delay="1s">Let's Watch Videos <i class="ion-ios-arrow-thin-right"></i></a>
             </div>
         </div>
     </div>
-    <div class="bg_navy_blue video_bg"></div>
 </section>
 <!-- END SECTION ABOUT US -->
 
@@ -220,7 +217,7 @@
 			<div class="col-lg-8 offset-lg-2 col-md-12 col-sm-12">
 				<div class="title_default_light title_border text-center">
                   <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">Meet our solution for you</h4>
-                  <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour</p>
+                  <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">We work on the principle of helping people interact with each other through three main platforms: p2p (token exchange between users), lending and games</p>
         		</div>
 			</div>
         </div>
@@ -229,42 +226,42 @@
             	<div class="box_wrap text-center box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="0.6s">
                 	<img src="assets/images/service_icon1.png" alt="service_icon1">
                     <h4>Secure Storage</h4>
-                    <p>your wallet must be secured. Bitcoin makes it possible to transfer value any where in a very easy way and it allows you to be in control of your money.</p>
+                    <p>Your wallet must be secured. 6Coin9 makes it possible to transfer value any where in a very easy way and it allows you to be in control of your money.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
             	<div class="box_wrap text-center box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="0.8s">
                 	<img src="assets/images/service_icon2.png" alt="service_icon2">
-                    <h4>Mobile App</h4>
-                    <p>The #1 most popular cryptocurrency wallet for those looking to transform the financial system right from their pocket. Cash instantly with anyone in the world.</p>
+                    <h4>Web App</h4>
+                    <p>The most advanced website technology along with AI on blockchain technology and realtime socket. Can be accessed by many devices aren't restricted.</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
             	<div class="box_wrap text-center box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1s">
                 	<img src="assets/images/service_icon3.png" alt="service_icon3">
                     <h4>Exchange Service</h4>
-                    <p>Each user has unique needs, so there is no one size fits all for exchanges. Our Bitcoin exchange reviews detail each exchange's supported countries</p>
+                    <p>Each user has unique needs, so there is no one size fits all for exchanges.We are the intermediary that helps users to freely transact with each other in the safest way</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
             	<div class="box_wrap text-center box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1s">
                 	<img src="assets/images/service_icon4.png" alt="service_icon4">
                     <h4>Investment projects</h4>
-                    <p>Bitcoin investment opportunities exist outside of simply speculating on the Bitcoin exchange rate. sell bitcoins and profit from extreme changes</p>
+                    <p>6Coin9 investment opportunities exist outside of simply speculating on the 6Coin9 exchange rate. Sell 6coin9 and profit from extreme changes</p>
                 </div>
             </div>
             <div class="col-lg-4  col-md-6 col-sm-12">
             	<div class="box_wrap text-center box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1s">
                 	<img src="assets/images/service_icon5.png" alt="service_icon5">
-                    <h4>Credit Card Use</h4>
-                    <p>We are accept any credit or debit card from VISA or MasterCard. This option may be especially useful for those seek ing for the ways</p>
+                    <h4>Loan</h4>
+                    <p>We perform secured lending between users. The system accepts many cryptocurrencies such as: BTC, ETH, BNB, TRX, USDT...</p>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
             	<div class="box_wrap text-center box_shadow_none animation" data-animation="fadeInUp" data-animation-delay="1s">
                 	<img src="assets/images/service_icon6.png" alt="service_icon6">
-                    <h4>Planning</h4>
-                    <p>A cutting edge issue in traditional estate planning is Cryptocash. Cryptocash is a digital or virtual currency that uses cryptography for security</p>
+                    <h4>Games</h4>
+                    <p>With every minute Bitcoin exchange rate fluctuations. Players can bet through the system to predict the exchange rate and receive their reward</p>
                 </div>
             </div>
     	</div>
@@ -486,8 +483,8 @@
                     <div class="timeline_box complete">
                       <div class="timeline_inner">
                         <div class="timeline_circle"></div>
-                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">Aprile 2018</h6>
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Inotial Coin Distribution &amp; maketing</p>
+                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">August 2021</h6>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Website landing and team introduction</p>
                       </div>
                     </div>
                   </div>
@@ -495,8 +492,8 @@
                     <div class="timeline_box complete current">
                       <div class="timeline_inner">
                         <div class="timeline_circle"></div>
-                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">February 2018</h6>
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Exchange Cryptocash to Bitcoin</p>
+                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">September 2021</h6>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">WebApp p2p is launched</p>
                       </div>
                     </div>
                   </div>
@@ -504,8 +501,8 @@
                     <div class="timeline_box">
                       <div class="timeline_inner">
                         <div class="timeline_circle"></div>
-                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">March 2018</h6>
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">BTCC mode of payment in Cryptocash </p>
+                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">October 2021</h6>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Launch of Token 6Coin9 and trade Pankeswap</p>
                       </div>
                     </div>
                   </div>
@@ -513,8 +510,8 @@
                     <div class="timeline_box">
                       <div class="timeline_inner">
                         <div class="timeline_circle"></div>
-                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">June 2018</h6>
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Send-Receive coin Cryptocash & mobile</p>
+                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">January 2022</h6>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Game predictions Bitcoin exchange rates</p>
                       </div>
                     </div>
                   </div>
@@ -522,8 +519,8 @@
                     <div class="timeline_box">
                       <div class="roadmap_inner">
                         <div class="timeline_circle"></div>
-                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">October 2018</h6>
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Coin Marketcap, World Coin Index</p>
+                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">April 2022</h6>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Lending Services</p>
                       </div>
                     </div>
                   </div>
@@ -531,8 +528,8 @@
                     <div class="timeline_box">
                       <div class="timeline_inner">
                         <div class="timeline_circle"></div>
-                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">December 2018</h6>
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Online & Trading ICO Token Sale</p>
+                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">December 2022</h6>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">App launch on google play and app store</p>
                       </div>
                     </div>
                   </div>
@@ -540,8 +537,8 @@
                     <div class="timeline_box">
                       <div class="timeline_inner">
                         <div class="timeline_circle"></div>
-                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">December 2018</h6>
-                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Deposit Bitcoin from your account</p>
+                        <h6 class="animation" data-animation="fadeInUp" data-animation-delay="0.3s">February 2023</h6>
+                        <p class="animation" data-animation="fadeInUp" data-animation-delay="0.4s">Trade on huobi, binance</p>
                       </div>
                     </div>
                   </div>
@@ -564,8 +561,9 @@
             <div class="col-lg-6 col-md-12 order-first">
               <div class="title_blue_dark title_border">
                 <h4 class="animation" data-animation="fadeInUp" data-animation-delay="0.2s">WebApp Technologies</h4>
-                <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="0.4s">The use of crypto-currencies has become more widespread, and they are now increasingly accepted as a legitimate currency for transactions. Bitcoin is the first ever cryptocurrency and is used like other assets in exchange for goods and services.</p>
-                <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="0.6s">Send, receive, and exchange Bitcoin, Ethereum, & Bitcoin Cash instantly with anyone in the world. Securely buy and sell bitcoin alongside your already safely stored cryptocurrency. </p>
+                <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="0.4s">With webapp technology you can trade anytime without being limited by hardware devices.</p>
+                <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="0.6s">The use of crypto-currencies has become more widespread, and they are now increasingly accepted as a legitimate currency for transactions. 6Coin9 is the first ever cryptocurrency and is used like other assets in exchange for goods and services.</p>
+                <p class="animation text-justify" data-animation="fadeInUp" data-animation-delay="0.8s">Send, receive, and exchange Bitcoin, Ethereum, & Bitcoin Cash instantly with anyone in the world. Securely buy and sell bitcoin alongside your already safely stored cryptocurrency. </p>
               </div>
               <div class="btn_group animation" data-animation="fadeInUp" data-animation-delay="1s">
               	<a href="#" class="btn btn-default btn-radius"><em class="ion-social-android"></em>Android</a>
@@ -594,17 +592,17 @@
                 <div class="bg_navy_blue_dark radius_box team_box_s3 animation" data-animation="fadeInUp" data-animation-delay="0.4s">
                     <div class="text-center">
                     	<img src="assets/images/team_img1.png" alt="team1">
-                    	<div class="team_social_s2 list_none">
+                    	{{-- <div class="team_social_s2 list_none">
                         <ul>
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
                         </ul>
-                    </div>
+                        </div> --}}
                     </div>
                     <div class="team_info text-center">
-                        <h4><a href="#team1" class="content-popup">Derek Castro</a></h4>
+                        <h4><a href="" class="content-popup">Derek Castro</a></h4>
                         <p>Head Of Marketing</p>
                     </div>
                     <div id="team1" class="team_pop mfp-hide">
@@ -1234,7 +1232,6 @@
 </section>
 <!-- END NEWSLETTER SECTION -->
 
-
 <!-- START FOOTER SECTION -->
 <footer>
 	<div class="top_footer bg_navy_blue" data-z-index="1" data-parallax="scroll" data-image-src="assets/images/footer_bg.png">
@@ -1258,7 +1255,7 @@
                         <li class="animation" data-animation="fadeInUp" data-animation-delay="0.9s"><a href="#">Contact</a></li>
                     </ul>
                     <div class="divider small_divider"></div>
-                    <p class="copyright animation" data-animation="fadeInUp" data-animation-delay="0.4s">Copyright &copy; 2018 All Rights Reserved.</p>
+                    <p class="copyright animation" data-animation="fadeInUp" data-animation-delay="0.4s">Copyright &copy; 2021 All Rights Reserved.</p>
          		</div>
       		</div>
     	</div>

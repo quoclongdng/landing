@@ -6,11 +6,10 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Cryptocash is Professional Creative Template">
+  <meta name="description" content="6xin9 is an intermediary network that helps users transaction in fast transaction times.">
   <!-- SITE TITLE -->
-  <title>Cryptocash – ICO Cryptocurrency & ICO Landing Page HTML + Admin Dashboard Template</title>
+  <title>6Coin9 – P2P - Lending - Game - ICO</title>
   <!-- Favicon Icon -->
-  <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
   <!-- Animation CSS -->
   <link rel="stylesheet" href="assets/css/animate.css">
   <!-- Latest Bootstrap min CSS -->
@@ -33,7 +32,20 @@
   <link rel="stylesheet" href="http://cdn.bootcss.com/toastr.js/latest/css/toastr.min.css">
   <!-- Color CSS -->
   <link id="layoutstyle" rel="stylesheet" href="assets/color/theme.css">
-
+  {{-- icon  --}}
+  <link rel="apple-touch-icon" sizes="57x57" href="icon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="icon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="icon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="icon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="icon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="icon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="icon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="icon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="icon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="icon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="icon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="icon/favicon-16x16.png">
 </head>
 
 <body class="v_navy_blue" data-spy="scroll" data-offset="110">
@@ -100,7 +112,7 @@
           <div class="banner_text text_md_center">
             <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.1s">6Coin9 is the beginning of
               success and selection new investment.</h1>
-            <p class="animation" data-animation="fadeInUp" data-animation-delay="1.3s">6xin9 is an intermediary network that helps users transaction in fast transaction times.</p>
+            <p class="animation" data-animation="fadeInUp" data-animation-delay="1.3s">6Coin9 is an intermediary network that helps users transaction in fast transaction times.</p>
             <div class="btn_group animation" data-animation="fadeInUp" data-animation-delay="1.4s">
               <a href="#" class="btn btn-default btn-radius">Buy Token Now! <i class="ion-ios-arrow-thin-right"></i></a>
             </div>

@@ -1069,7 +1069,7 @@
           <div class="newsletter_form newslattter_small my-2 my-md-5">
             <form method="post" action="{{ Route('subscribe') }}" class="subscribe_form animation" data-animation="fadeInUp" data-animation-delay="0.5s">
               @csrf
-              <input class="input-rounded" type="text" required="" placeholder="Enter Email Address">
+              <input class="input-rounded" name="email" type="text" required="" placeholder="Enter Email Address">
               <button type="submit" title="Subscribe" class="btn-info" name="submit" value="Submit"> Subscribe </button>
             </form>
           </div>

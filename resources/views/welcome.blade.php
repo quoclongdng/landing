@@ -92,8 +92,7 @@
   <!-- END HEADER -->
 
   <!-- START SECTION BANNER -->
-  <section id="home_section" class="section_banner bg_navy_blue banner_full_height" data-z-index="1"
-    data-parallax="scroll" data-image-src="assets/images/banner_bg.png">
+  <section id="home_section" class="section_banner bg_navy_blue banner_full_height">
     <div id="banner_bg_effect" class="banner_effect"></div>
     <div class="container h-100">
       <div class="row align-items-center h-100">
@@ -464,8 +463,7 @@
   <!-- END SECTION TOKEN SALE -->
 
   <!-- START SECTION TIMELINE -->
-  <section id="roadmap" class="bg_navy_blue" data-image-src="assets/images/roadmap_bg3.png" data-parallax="scroll"
-    data-z-index="1">
+  <section id="roadmap" class="bg_navy_blue">
     <div class="container">
       <div class="row text-center">
         <div class="col-lg-8 col-md-12 offset-lg-2">
@@ -663,6 +661,8 @@
       <div class="row small_space justify-content-center">
         <div class="col-lg-9 col-md-12">
           <div class="row">
+            <div class="col-lg-2">
+            </div>
             <div class="col-lg-4 col-md-6 col-sm-6 res_md_mb_30 res_sm_mb_20">
               <div class="bg_navy_blue_dark radius_box team_box_s3 animation" data-animation="fadeInUp"
                 data-animation-delay="0.2s">
@@ -687,7 +687,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 offset-lg-0 col-md-6 offset-md-3 col-sm-6 offset-sm-3">
+            {{-- <div class="col-lg-4 offset-lg-0 col-md-6 offset-md-3 col-sm-6 offset-sm-3">
               <div class="bg_navy_blue_dark radius_box team_box_s3 animation" data-animation="fadeInUp"
                 data-animation-delay="0.6s">
                 <div class="text-center">
@@ -698,7 +698,7 @@
                   <p>Invester</p>
                 </div>
               </div>
-            </div>
+            </div> --}}
           </div>
         </div>
       </div>
@@ -1099,8 +1099,7 @@
 
   <!-- START FOOTER SECTION -->
   <footer>
-    <div class="top_footer bg_navy_blue" data-z-index="1" data-parallax="scroll"
-      data-image-src="assets/images/footer_bg.png">
+    <div class="top_footer bg_navy_blue">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 col-md-12 text-center">

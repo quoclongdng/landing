@@ -17,7 +17,7 @@ class Email extends Migration
             $table->id();
             $table->string('email');
             $table->string('type');
-            $table->timestamp('failed_at')->useCurrent();
+            $table->timestamps();
         });
     }
 

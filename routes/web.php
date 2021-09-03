@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::post('send-message', [\App\Http\Controllers\TelegramController::class, 'sendMessage'])->name('send-message');
+Route::post('subscribe', [\App\Http\Controllers\TelegramController::class, 'subscribe'])->name('subscribe');

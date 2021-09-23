@@ -114,9 +114,10 @@
       <div class="row align-items-center h-100">
         <div class="col-lg-6 col-md-12 col-sm-12 order-lg-first">
           <div class="banner_text text_md_center">
-            <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.1s">6Coin9 is the beginning of
-              success and selection new investment.</h1>
-            <p class="animation" data-animation="fadeInUp" data-animation-delay="1.3s">6Coin9 is an intermediary network that helps users transaction in fast transaction times.</p>
+            <h1 class="animation" data-animation="fadeInUp" data-animation-delay="1.1s">6Coin9 is the choice of the new generation.</h1>
+            <p class="animation" data-animation="fadeInUp" data-animation-delay="1.3s"> Where the start of the success, wealth and prosperity. 6Coin9 is an intermediary network that helps users transaction in fast transaction times.
+              <span style="color: rgb(226, 226, 21)">And it's completely free.</span>
+            </p>
             <div class="btn_group animation" data-animation="fadeInUp" data-animation-delay="1.4s">
               <a href="#" class="btn btn-default btn-radius">Buy Token Now! <i class="ion-ios-arrow-thin-right"></i></a>
             </div>

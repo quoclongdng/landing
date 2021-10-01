@@ -29,7 +29,7 @@
   <!-- Style CSS -->
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/responsive.css">
-  <link rel="stylesheet" href="http://cdn.bootcss.com/toastr.js/latest/css/toastr.min.css">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/toastr.js/latest/css/toastr.min.css">
   <!-- Color CSS -->
   <link id="layoutstyle" rel="stylesheet" href="assets/color/theme.css">
   {{-- icon  --}}
@@ -90,8 +90,8 @@
                 class="nav-link page-scroll nav_item" href="#about">About</a></li>
             <li class="animation" data-animation="fadeInDown" data-animation-delay="1.3s"><a
                 class="nav-link page-scroll nav_item" href="#service">Services</a></li>
-            <li class="animation" data-animation="fadeInDown" data-animation-delay="1.4s"><a
-                class="nav-link page-scroll nav_item" href="#token">Token</a></li>
+            {{-- <li class="animation" data-animation="fadeInDown" data-animation-delay="1.4s"><a
+                class="nav-link page-scroll nav_item" href="#token">Token</a></li> --}}
             <li class="animation" data-animation="fadeInDown" data-animation-delay="1.5s"><a
                 class="nav-link page-scroll nav_item" href="#roadmap">Road Map</a></li>
             <li class="animation" data-animation="fadeInDown" data-animation-delay="1.6s"><a
@@ -332,7 +332,7 @@
   <!-- END SECTION SERVICES -->
 
   <!-- START SECTION TOKEN SALE -->
-  <section id="token" class="section_token token_sale overflow_hide">
+  {{-- <section id="token" class="section_token token_sale overflow_hide">
     <div class="container">
       <div class="row">
         <div class="col-lg-6 offset-lg-3 col-md-12 col-sm-12">
@@ -476,7 +476,7 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> --}}
   <!-- END SECTION TOKEN SALE -->
 
   <!-- START SECTION TIMELINE -->
@@ -1174,8 +1174,8 @@
   <script src="assets/js/notification.js"></script>
   <!-- scripts js -->
   <script src="assets/js/scripts.js"></script>
-  <script src="http://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
-  <script src="http://cdn.bootcss.com/toastr.js/latest/js/toastr.min.js"></script>
+  <script src="https://cdn.bootcss.com/jquery/2.2.4/jquery.min.js"></script>
+  <script src="https://cdn.bootcss.com/toastr.js/latest/js/toastr.min.js"></script>
   {!! Toastr::message() !!}
   <script>
     @if(count($errors) > 0)
